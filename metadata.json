@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative Project Management Platform",
+  "description": "Enterprise-grade multi-user collaborative project management platform with role-based access control, real-time optimistic concurrency control, task tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
